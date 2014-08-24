@@ -1,0 +1,6 @@
+g,g,g,g,g,g
+g,a,g,g,a,g
+g,g,b,b,g,g
+g,d,f,f,d,g
+g,a,c,c,a,g
+g,g,g,g,g,g
